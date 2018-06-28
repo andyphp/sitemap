@@ -1,0 +1,12 @@
+{
+    "name": "xuwenming/sitemap",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "许文明",
+            "email": "1010707582@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
